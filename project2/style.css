@@ -1,0 +1,145 @@
+.nav-link{
+    margin-left: 30px;
+    border-bottom:4px solid white;
+    }
+    .nav-link:hover{
+        border-bottom:4px solid black;
+        }
+    
+        .content{
+            margin-bottom: 100px;
+             margin-right: 500px;
+        }
+        .content p{
+            color: black;
+             font-size: 25px;
+        }
+        .content h1{
+            font-size: 50px;
+            font-weight: bold;
+             color: black;
+        }
+        .content button{
+            width: 150px;
+            font-size: 20px;
+            border-radius: 25px;
+            color: white;
+             background-color: rgb(84, 84, 250);
+        }
+        .image img{
+            height: 370px;
+            width: 600px;
+        }
+       .come{
+        font-size: 22px;
+       }
+        .shop img{
+            margin-left: 25px;
+        }
+        #action{
+            height: 310px;
+        }
+    .boy img{
+        width: 150px;
+        height: 300px;
+        margin-left: 200px;
+    }
+    .texts{
+        margin-top: 50px;
+         margin-left: 60px;
+    }
+    .texts h2{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .texts p{
+       
+    }
+    .texts button{
+        background-color: black;
+        color: white; 
+        border-radius: 25px; 
+        height: 40px;
+         width: 150px;
+    }
+    .colth img{
+        height: 100px;
+        margin-top: 20px;
+         margin-left: 100px; 
+    }
+    .section{
+        margin-top: 70px; 
+        margin-left: 150px;
+    }
+    #section img{
+        height: 300px;
+        width: 200px;
+        margin-left: 140px;
+    }
+    
+    #man img{
+             height:300px;
+    
+    
+    }
+    .style {
+        margin-top: 70px; 
+        margin-left: 60px;
+    }
+    .style h2 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .style {
+       font-size: 25px;
+    }
+    
+    #image2 img{
+        margin-top: 20px;
+         margin-left: 130px;
+    }
+    .bot{
+        margin-top: 150px; 
+        border-radius: 25px;
+         width: 300px;
+         height: 50px;
+    }
+    #row{
+        background-color: rgb(186, 227, 250); 
+        height: 310px
+    }
+    
+    #icon{
+        width: 300px;
+        background-color: white; 
+        margin-left: 130px;
+    }
+    #icon2{
+        width: 300px;
+        background-color: white; 
+        margin-left: 90px;    
+    }
+    #icon3{
+        width: 300px;
+        background-color: white;
+         margin-left: 50px; 
+    }
+    #copy p{
+        font-size: 20px;
+        margin-left: 80px;
+    }
+    #line h2{
+        margin-left: 200px;
+    }
+    #list ol{
+        list-style-type: none;
+         display: inline-block;
+         display: flex;
+         margin-left: 250px;
+        margin-top: 10px;
+    }
+    #list ol li{
+        margin-left: 20px;
+    }
+    #hr{
+        width: 1050px; 
+         margin-left: 190px;
+    }
